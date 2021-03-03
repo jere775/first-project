@@ -1,0 +1,11 @@
+/*index style for background img.*/
+
+html {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+      url(https://blog.keytours.com/hs-fs/hubfs/Destinations/France/Email%20and%20Blog/France,-Paris,-Champs-de-Mars,-Eiffel-Tower.jpg?width=760&name=France,-Paris,-Champs-de-Mars,-Eiffel-Tower.jpg)
+        no-repeat center center fixed;
+    background-size: cover;
+    height: 100%;
+  }
+  
+  /* another cool background img: https://media1.tenor.com/images/4007454ba79da3ccb2ded93b7d5441b3/tenor.gif?itemid=12805523 */

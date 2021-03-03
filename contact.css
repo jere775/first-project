@@ -1,0 +1,9 @@
+html {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+      url(https://susanspiritusgallery.com/wp-content/uploads/DB_Cherry-Blossoms-Champ-de-Mars-Paris-France-2017-1080x1080.jpg)
+        no-repeat center center fixed;
+    background-size: cover;
+    height: 100%;
+  }
+  
+  
